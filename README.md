@@ -1,2 +1,6 @@
-# strapi-rendu
+# Rendu Strapi
+
+Romain DANIZEL
+
+
 
